@@ -1,0 +1,5 @@
+bigchaindb-driver
+Flask
+Flask-GraphQL
+graphene == 1.4
+graphql-core == 1.1
